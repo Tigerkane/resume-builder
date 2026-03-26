@@ -1,0 +1,16 @@
+body {
+    background:white;
+}
+
+#resume {
+    border-radius: 10px;
+}
+
+h2 {
+    color: midnightblue;
+}
+
+h4 {
+    margin-top: 20px;
+    color: #007bff;
+}
